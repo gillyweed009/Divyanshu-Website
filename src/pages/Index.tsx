@@ -107,7 +107,21 @@ const Index = () => {
       location: "Delhi, India",
       duration: "July 2022 - Aug 2024",
       description: "Advisory role at technology startup, contributing to strategic planning and technical decisions."
-    }
+    },
+    {
+      title: "Intern",
+      company: "KIIT University",
+      location: "Bhubaneswar, India",
+      duration: "Dec 2023 - Dec 2023",
+      description: "Internship under Dr. Priti S. Mohanty, KIIT University, Bhubaneswar, India"
+    },
+     {
+      title: "Advisor",
+      company: "Quizadilla",
+      location: "Delhi", India",
+      duration: "Dec 2021 - July 2022",
+      description: "Assisted the team in organizing and conducting interactive quizzes, developing engaging content, and improving participant experience"
+    },
   ];
 
   const researchInterests = [
