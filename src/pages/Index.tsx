@@ -118,7 +118,7 @@ const Index = () => {
      {
       title: "Advisor",
       company: "Quizadilla",
-      location: "Delhi", India",
+      location: "Delhi, India",
       duration: "Dec 2021 - July 2022",
       description: "Assisted the team in organizing and conducting interactive quizzes, developing engaging content, and improving participant experience"
     }
