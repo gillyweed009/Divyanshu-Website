@@ -96,7 +96,7 @@ const Index = () => {
     },
     {
       title: "Summer Intern", 
-      company: "ONGC - Institute of Drilling Fluids",
+      company: "ONGC - Institute of Drilling Technology",
       location: "Dehradun, India",
       duration: "July 2024 - Sep 2024",
       description: "Internship under Ms. Poonam Kumar, Chemist, working on drilling fluid technologies."
