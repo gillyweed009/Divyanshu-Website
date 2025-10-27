@@ -106,21 +106,21 @@ const Index = () => {
       company: "Factaco Inc.",
       location: "Delhi, India",
       duration: "July 2022 - Aug 2024",
-      description: "Advisory role at technology startup, contributing to strategic planning and technical decisions."
+      description: "Worked on conducting, hosting and making questions for quiz competitions in reputed institutes across the country and making viral Instagram content."
     },
     {
       title: "Intern",
       company: "KIIT University",
       location: "Bhubaneswar, India",
       duration: "Dec 2023 - Dec 2023",
-      description: "Internship under Dr. Priti S. Mohanty, KIIT University, Bhubaneswar, India"
+      description: "Internship on Dynamic Light Scattering(DLS) under Dr. Priti S. Mohanty, KIIT University, Bhubaneswar, India."
     },
      {
       title: "Advisor",
       company: "Quizadilla",
       location: "Delhi, India",
       duration: "Dec 2021 - July 2022",
-      description: "Assisted the team in organizing and conducting interactive quizzes, developing engaging content, and improving participant experience"
+      description: "Assisted the team in organizing and conducting interactive quizzes, developing engaging content, and improving participant experience."
     }
   ];
 
