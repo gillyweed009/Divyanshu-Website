@@ -15,7 +15,7 @@ const Index = () => {
       description: "Research Project • Mar 2025 - Jun 2025",
       abstract:
         "Synthesis of zeolites prepared from industrial wastes like fly ash, water treatment sludge, and iron tailings. Tested the efficacy of adsorption of Chromium using the zeolites using the diphenylcarbazide method. Optimised the adsorption process by varying four parameters - pH, dosage, adsorption time and Cr(VI) concentration.",
-      pdfLink: "#",
+      pdfLink: "https://drive.google.com/file/d/1H6VU7lRyXl4pW9T9NsSs_fmkomnyy7f0/view?usp=sharing",
     },
     {
       title: "Removal of Hexavalent Chromium from Industrial Wastewater Using Sugarcane Bagasse Adsorbents",
@@ -29,7 +29,7 @@ const Index = () => {
       description: "Research Project • July 2024 - Mar 2025",
       abstract:
         "Investigated the feasibility of the Inverse Fluidized Bed Bioreactor (IFBBR) for the biological reduction of hexavalent chromium in mine wastewater. Cultured a mixed bacterial culture with a specific growth rate of 0.234 hr⁻¹. Conducted hydrodynamic studies in the IFBBR and determined its minimum fluidization velocity as 0.0071 m/s. Achieved a 93.07% reduction of Cr(VI) in synthetic wastewater (Cr concentration 10 ppm) and 77.16% reduction in actual mine wastewater (Cr concentration 3 ppm).",
-      pdfLink: "#",
+      pdfLink: "https://drive.google.com/file/d/1brQ1bpI_WLquRb1H5NTzvpojRT5tlo0V/view?usp=sharing",
     },
     {
       title: "Upgradation of Iron Ore through Beneficiation Techniques and Reduction Roasting",
